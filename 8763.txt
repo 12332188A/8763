@@ -1,0 +1,17 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://raw.githubusercontent.com/12332188A/8763/main"},
+    "26":{"url":"https://raw.githubusercontent.com/12332188A/8763/main/pon.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/12332188A/8763/main"},
+    "28":{"url":"https://raw.githubusercontent.com/12332188A/8763/main/kan.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/12332188A/8763/main"},
+    "30":{"url":"https://raw.githubusercontent.com/12332188A/8763/main/chii.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/12332188A/8763/main"},
+    "32":{"url":"https://raw.githubusercontent.com/12332188A/8763/main/riichi.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/12332188A/8763/main"},
+    "34":{"url":"https://raw.githubusercontent.com/12332188A/8763/main/ron.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/12332188A/8763/main"},
+    "36":{"url":"https://raw.githubusercontent.com/12332188A/8763/main/tumo.mp3"},
+  }
+}
